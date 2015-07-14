@@ -1,6 +1,8 @@
 Tachyon
 =======
 
+[![Join the chat at https://gitter.im/tomzhang/tachyon](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/tomzhang/tachyon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The master branch is in version 0.7.0-SNAPSHOT:
 
 - [Tachyon Homepage](http://www.tachyonproject.org)
